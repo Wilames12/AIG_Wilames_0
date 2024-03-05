@@ -4,3 +4,4 @@ telemovel
 tablet
 impressora
 pendrive
+cabo de rede
